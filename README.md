@@ -1,4 +1,4 @@
-<h1 align="center" >NSS, TEZU</h1>
+<h1 align="center" >NSS, TEZU (http://nsstu.herokuapp.com/) </h1>
 <h3 align="center">The official site for NSS, Tezpur University</h3>
 
 ## Technologies used
